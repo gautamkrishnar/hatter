@@ -1,0 +1,16 @@
+
+#content{
+	height:300px;
+	width :500px;
+	border:1px solid;
+	text-align:center;
+	background-color:#6666FF;
+	margin-left:20%;
+	margin-top:10%;
+}
+
+body{
+	background-color:#C2C2D6;
+} 
+
+

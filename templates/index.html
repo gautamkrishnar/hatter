@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html>
+<head>
+
+
+	<title> Mad Hatter </title> 
+<link rel="stylesheet" type="text/css" href={{ url_for('static',filename='style.css') }}>
+
+</head>
+<body>
+<div id="content">
+<div id="answer">
+<img src="{{ url_for('static', filename='hatter.png') }}" height="150px" width="180px"><br/>
+{% if respon %}
+	{{ respon }}
+{% else %}
+	Hello ,  I am Tarrant the hatter. Some refer to me as the mad hatter . How may I help you?  
+{% endif %}
+</div>
+<div id="question">
+
+	<form method="post" action="{{ url_for('index') }}">
+		<input type="text" size="55" name="question">	
+	<submit value="Answer">
+</div></div>
+
+</body>
+</html>
