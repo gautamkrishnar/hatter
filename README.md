@@ -44,3 +44,7 @@ bugs! hugh... please create a new issue on this repository
 
 ### Spread the word
 Liked hatter, star the repo and spread the word.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gautamkrishnar/hatter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
