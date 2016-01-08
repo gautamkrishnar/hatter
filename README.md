@@ -13,8 +13,17 @@ sudo apt-get update
 sudo apt-get install python2.7
 sudo apt-get install apache2
 ```
+
+clone htter
+````
+git clone https://github.com/gautamkrishnar/hatter.git
+cd hatter
+pip install -r requirements.txt
+````
+
 run the hattter:
 ````
+sudo /etc/init.d/apache2 restart
 sudo python main.py
 ````
 
