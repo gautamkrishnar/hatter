@@ -2,7 +2,7 @@
 Hatter is a chatbot writtrn in python. It uses aiml logic.
 
 ### Requirements
-- python 2.7 or higher
+- python 2.7
 - apache2
 
 ### Installation
@@ -16,7 +16,6 @@ sudo apt-get install apache2
 run the hattter:
 ````
 sudo python main.py
-
 ````
 
 ### Contributing
