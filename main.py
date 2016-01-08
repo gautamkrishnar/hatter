@@ -24,7 +24,7 @@ respon = ' '
 
 @app.before_request
 def before_request():
-	g.respon = 'Hello , I am Tarrant the Hatter. Some people call me the Mad Hatter. I was created by Aswin .He says he was bored one day :D .<br/> A big Hi, by the way'	
+	g.respon = 'Hello , I am Tarrant the Hatter. Some people call me the Mad Hatter. Good to see you.'	
 
 @app.route('/',methods=['GET','POST'])
 def index():
