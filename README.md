@@ -18,7 +18,7 @@ clone htter
 ````
 git clone https://github.com/gautamkrishnar/hatter.git
 cd hatter
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ````
 
 run the hattter:
