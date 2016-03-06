@@ -14,7 +14,7 @@ sudo apt-get install python2.7
 sudo apt-get install apache2
 ```
 
-clone htter
+clone hatter
 ````
 git clone https://github.com/gautamkrishnar/hatter.git
 cd hatter
@@ -46,5 +46,4 @@ bugs! hugh... please create a new issue on this repository
 Liked hatter, star the repo and spread the word.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gautamkrishnar/hatter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
