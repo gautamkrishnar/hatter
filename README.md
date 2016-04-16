@@ -1,4 +1,4 @@
-# Hatter [![Build Status](https://travis-ci.org/gautamkrishnar/hatter.svg?branch=master)](https://travis-ci.org/gautamkrishnar/hatter)
+# Hatter [![Circle CI](https://circleci.com/gh/gautamkrishnar/hatter.svg?style=svg)](https://circleci.com/gh/gautamkrishnar/hatter)
 Hatter is a chatbot writtrn in python. It uses aiml logic.
 
 ### Requirements
