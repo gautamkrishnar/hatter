@@ -25,6 +25,8 @@ run the hattter:
 ````
 sudo /etc/init.d/apache2 restart
 sudo python main.py
+# OR For Hatter CLI use
+sudo python main-cli.py
 ````
 
 ### Contributing
