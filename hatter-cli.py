@@ -1,4 +1,4 @@
-# Hatter command line version, This doesn't require
+# Hatter command line version, This doesn't require Flask
 from aiml import Kernel
 from os import listdir
 import sys
